@@ -8,6 +8,6 @@ College: Mangalore institute of technology and engineering
 
 Email ID: sinchanah022004@gmail.com
 
-*About task1 :Installed Ubuntu through VirtualBox. Wrote code to find the sum of numbers from 1 to N(100). Additonally executed assembly level program and verified the results .
+* About task1 :Installed Ubuntu through VirtualBox. Wrote code to find the sum of numbers from 1 to N(100). Additonally executed assembly level program and verified the results .
 
-*About task2 :
+* About task2 :
