@@ -18,7 +18,11 @@ Then,  took snapshots of the outputs and uploaded them to my GitHub repository.
 
 * About task4 :
   In GTKwave, obtained a waveform ( about signals) :
+  
   For EX_MEM_IR[31:0] = 02208300 : add instruction :-  1 + 2 = 3.
+  
    For EX_MEM_IR[31:0] = 02209380 : Sub instruction :- 1 - 2 = -1.
+  
    For EX_MEM_IR[31:0] = 0230A400 : BITWISE AND  instruction :- 3 & 1 = 1    i.e,  0011 & 0001 = 0001.
+  
     For EX_MEM_IR[31:0] = 02513480 : BITWISE OR  instruction :- 2 | 5 = 7    i.e,  0010 | 0101 = 0111.
