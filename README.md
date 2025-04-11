@@ -26,3 +26,15 @@ Then,  took snapshots of the outputs and uploaded them to my GitHub repository.
    For EX_MEM_IR[31:0] = 0230A400 : BITWISE AND  instruction :- 3 & 1 = 1    i.e,  0011 & 0001 = 0001.
   
     For EX_MEM_IR[31:0] = 02513480 : BITWISE OR  instruction :- 2 | 5 = 7    i.e,  0010 | 0101 = 0111.
+
+
+ * About task5:
+   - Fire Detection with Infrared Sensor: Utilizes an IR-based flame sensor to detect fire or flame presence in real-time for safety applications.
+
+   - Real-Time Alert System: Triggers an LED and active buzzer immediately when a flame is detected, ensuring quick user alerts.
+
+   - Microcontroller Integration: Built using the VSD Squadron Mini, demonstrating effective use of digital I/O pins for sensor input and actuator control.
+
+   - Simple & Efficient Circuit: Minimal components required — flame sensor, LED, buzzer, resistor — making it beginner-friendly and easy to assemble.
+
+   - Ideal for Smart Systems: Suitable for integration into home automation, safety robots, or any embedded system requiring fire detection.
