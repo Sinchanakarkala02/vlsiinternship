@@ -38,3 +38,19 @@ Then,  took snapshots of the outputs and uploaded them to my GitHub repository.
    - Simple & Efficient Circuit: Minimal components required — flame sensor, LED, buzzer, resistor — making it beginner-friendly and easy to assemble.
 
    - Ideal for Smart Systems: Suitable for integration into home automation, safety robots, or any embedded system requiring fire detection.
+  
+ * About task6:
+
+-Project Title: Sequential LED Blinker using VSD Squadron Mini.
+
+-Microcontroller Used: CH32V003-based VSD Squadron Mini (RISC-V).
+
+-Functionality: Four LEDs blink in sequence — each stays ON for 2 seconds and OFF for 2 seconds before moving to the next.
+
+-Learning Outcome: Helps understand GPIO control, timing delays, and basic embedded programming.
+
+-Hardware Required: VSD Squadron Mini, 4 LEDs, 4 × 220Ω resistors, breadboard, jumper wires, USB cable.
+
+-Applications: Ideal beginner-level project for learning embedded systems and microcontroller interfacing.
+
+Here is demo video link of my mini project : https://drive.google.com/drive/folders/1ll2UYbxg7SGazHIoscTVhMZNgIThaQS7?usp=drive_link
